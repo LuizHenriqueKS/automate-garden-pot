@@ -1,0 +1,31 @@
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.csprojAssemblyReference.cache
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.AssemblyInfoInputs.cache
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.AssemblyInfo.cs
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\AutomateGardenPot.deps.json
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\AutomateGardenPot.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\AutomateGardenPot.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Automate.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Microsoft.Xna.Framework.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Netcode.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Stardew Valley.exe
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewModdingAPI.exe
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewValley.GameData.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\xTile.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Steamworks.NET.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\GalaxyCSharp.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Lidgren.Network.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\BmFont.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Automate.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Netcode.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Stardew Valley.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewModdingAPI.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewModdingAPI.xml
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewModdingAPI.exe.config
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\StardewValley.GameData.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\xTile.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\Lidgren.Network.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\bin\Debug\netstandard2.0\BmFont.pdb
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.csproj.CopyComplete
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.dll
+C:\Users\luizh\OneDrive\Documentos\NodeJS\Publico\automate-garden-pot\AutomateGardenPot\AutomateGardenPot\obj\Debug\netstandard2.0\AutomateGardenPot.pdb

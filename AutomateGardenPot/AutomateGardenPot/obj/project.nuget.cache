@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOCH7PJYryzmWi0KtO2FLmFI4lD7biUZ6V2HJCWf3JGhy+wG6eQYzEWIPV63S4MuIXafqZLWRJIHrgXSNJxwDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizh\\OneDrive\\Documentos\\NodeJS\\Publico\\automate-garden-pot\\AutomateGardenPot\\AutomateGardenPot\\AutomateGardenPot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luizh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

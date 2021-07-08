@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Automate">
+      <HintPath>D:\Arquivos de programas\Steam\steamapps\common\Stardew Valley\Mods\Automate\Automate.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework">
+      <HintPath>..\..\..\..\..\..\..\..\..\Windows\Microsoft.NET\assembly\GAC_32\Microsoft.Xna.Framework\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Netcode">
+      <HintPath>D:\Arquivos de programas\Steam\steamapps\common\Stardew Valley\Netcode.dll</HintPath>
+    </Reference>
+    <Reference Include="Stardew Valley">
+      <HintPath>D:\Arquivos de programas\Steam\steamapps\common\Stardew Valley\Stardew Valley.exe</HintPath>
+    </Reference>
+    <Reference Include="StardewModdingAPI">
+      <HintPath>D:\Arquivos de programas\Steam\steamapps\common\Stardew Valley\StardewModdingAPI.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
